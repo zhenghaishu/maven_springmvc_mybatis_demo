@@ -10,7 +10,7 @@
 
 	<properties>
 		<!-- spring版本号 -->
-		<spring.version>3.2.9.RELEASE</spring.version>
+		<spring.version>5.2.20.RELEASE</spring.version>
 		<!-- junit版本号 -->
 		<junit.version>4.10</junit.version>
 		<!-- mybatis版本号 -->
